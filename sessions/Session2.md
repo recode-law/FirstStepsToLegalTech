@@ -4,7 +4,7 @@
 ### SSH Keys
 How to create your own SSH Key? 
 1. Generate an SSH-Key and add to the ssh-agent [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-2. Adding a new SSH-Key to Github [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+2. Adding a new SSH-Key to GitHub [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 ## Why do we learn Python in this course ?
 There are three reasons:
