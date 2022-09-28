@@ -1,5 +1,11 @@
 # Session 2: The Python Roadmap
 
+## Security 
+### SSH Keys
+How to create your own SSH Key? 
+1. Generate an SSH-Key and add to the ssh-agent [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+2. Adding a new SSH-Key to Github [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+
 ## Why do we learn Python in this course ?
 There are three reasons:
 1. Easy readible 
@@ -24,3 +30,20 @@ An easy pathway to start with is the Python Roadmap, it helps to understand prog
 ## Python Roadmap
 Today we start with the Python Roadmap, because it is an easy start to programming
 [Python Roadmap](https://roadmap.sh/python)
+
+Data handling
+- [Numpy](https://numpy.org/) - for working with lists and array in a simple way
+- [Pandas](https://pandas.pydata.org) - for working with tables 
+
+Data visualization:
+- [Matplotlib](https://matplotlib.org) - for visualizing simple graphs/plots
+- [Seaborn](https://seaborn.pydata.org) - for pre-configured graphs/plots
+
+# Tutorial 1: Data handling
+[Tutorial 1: Data handling](../notebooks/Tutorial1.ipynb)
+
+# Tutorial 2: Data manipulation
+[Tutorial 2: Data manipulation](../notebooks/Tutorial2.ipynb)
+
+# Tutorial 3: Data visualization
+[Tutorial 3: Data visualization](../notebooks/Tutorial3.ipynb)
